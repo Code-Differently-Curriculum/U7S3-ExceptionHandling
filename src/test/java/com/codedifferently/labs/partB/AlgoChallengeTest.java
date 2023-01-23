@@ -1,8 +1,8 @@
-package com.codedifferently.labs.partC;
+package com.codedifferently.labs.partB;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import partC.AlgoChallenge;
+import partB.AlgoChallenge;
 
 public class AlgoChallengeTest {
     // Problem 28

@@ -1,4 +1,4 @@
-package partC;
+package partB;
 
 public class AlgoChallenge {
      /* Problem 1

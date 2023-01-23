@@ -1,8 +1,7 @@
 # U7S3 ExceptionHandling
 
 * Part A - Foundations 8.3
-* Part B - Foundations Practice
-* Part C - Algorithm Challenge
+* Part B - Algorithm Challenge
 
 ## Part A
 
@@ -20,6 +19,13 @@ In the package `partA.ex01` look at the file `Exception`.
     * Is it a good practice to handle the exception for this program?
     * Modify the program to compute the sum of the array
 
+Your program is working correctly, if when run, the following is the output:
+
+```
+Sum:12
+
+```
+
 ### Exercise 02
 
 #### Step 01
@@ -33,17 +39,17 @@ In the package `partA.ex02` look at the files `Calculator` and `ShoppingCart`.
       * Identify the exception that might occur
       * Change the divide method signature to indicate that it throws an exception
     * `ShoppingCart`
-      * Catch the exception in the class that calls the divide method 
-    
+      * Catch the exception in the class that calls the divide method
+      
+ Your program is working correctly, if when run, the following is the output:
+
+```
+Add Result: 122
+java.lang.ArithmeticException: / by zero
+
+```
 
 ## Part B
-
-### Exercise 01
-
-#### Step 01
-
-
-## Part C
 ### Problem 1
 Starting at index 1, we need to see if the word "del" appears.
 If "del" appears at that index then we need to delete the word "del".
